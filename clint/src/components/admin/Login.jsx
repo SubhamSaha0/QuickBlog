@@ -12,18 +12,14 @@ const Login = () => {
       e.preventDefault()
       try {
         const {data} = await axios.post('/api/admin/login', {email, password})
-        // const { data } = await axios.post('/api/admin/login', { email, password }, {
-        //   validateStatus: () => true // ✅ Axios won't throw
-        // });
 
         if(data.success){
           setToken(data.token)
           localStorage.setItem('token', data.token)
-          axios.defaults.headers.common['Authorization'] = data.token
+          axios.defaults.headers.common['Authorization'] = "Bearer " + data.token
           toast.success("Login successfull")
         } else {
           toast.error(data.message)
-          
         }
       } catch (error) {
         toast.error(error.message)

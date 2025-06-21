@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react'
 import { assets, dashboard_data } from '../../assets/assets.js'
 import BlogTableItem from './BlogTableItem.jsx'
 import { useAppContext } from '../../context/AppContext.jsx'
+import toast from 'react-hot-toast'
 
 const Dashboard = () => {
   const [dashboardData, setDashboadData] = useState(
