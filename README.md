@@ -34,7 +34,7 @@ QuickBlog is a full-stack, modern blogging platform that enables seamless creati
 | Editor       | Rich Text Editor (Quill.js) |
 | Deployment   | Render.com                  |
 | Media Upload | ImageKit                    |
-| AI Integration | Google Gemini API (optional) |
+| AI Integration | Google Gemini API  |
 
 ---
 
