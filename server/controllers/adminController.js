@@ -1,6 +1,6 @@
 import jwt from "jsonwebtoken";
-import Blog from "../models/blog.js";
-import Comment from "../models/commentModel.js";
+import Blog from "../models/Blog.js";
+import Comment from "../models/CommentModel.js";
 import mongoose from "mongoose";
 
 export const adminLogin = async (req, res) => {
