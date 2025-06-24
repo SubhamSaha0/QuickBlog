@@ -144,4 +144,4 @@ MIT © Subham Saha
 
 ## 👤 Contact
 
-[LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/subham-saha-277342202/)) • [Email](mailto:subhamsaha2511@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/subham-saha-277342202/) • [Email](mailto:subhamsaha2511@gmail.com)
