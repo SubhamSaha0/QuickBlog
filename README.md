@@ -16,10 +16,10 @@ QuickBlog is a full-stack, modern blogging platform that enables seamless creati
 ![View and add a comment](https://github.com/user-attachments/assets/aed007e9-595c-4244-a93c-aea3305a1593)
 
 ### Admin
-![image](https://github.com/user-attachments/assets/4009dd80-68d6-41cb-868d-c7d748559e48)
-![image](https://github.com/user-attachments/assets/1d1a0ecc-b8d6-4297-93cd-0dbcbd0f7ad7)
-![image](https://github.com/user-attachments/assets/c1a409a1-0b7a-49a5-b37d-629500ae1ece)
-![image](https://github.com/user-attachments/assets/bc5a48dd-5903-4951-84ac-2bbdfa9e63be)
+![Adsh board](https://github.com/user-attachments/assets/4009dd80-68d6-41cb-868d-c7d748559e48)
+![Add a blog](https://github.com/user-attachments/assets/1d1a0ecc-b8d6-4297-93cd-0dbcbd0f7ad7)
+![manage of blogs](https://github.com/user-attachments/assets/c1a409a1-0b7a-49a5-b37d-629500ae1ece)
+![manage comments](https://github.com/user-attachments/assets/bc5a48dd-5903-4951-84ac-2bbdfa9e63be)
 
 ---
 
@@ -144,4 +144,4 @@ MIT © Subham Saha
 
 ## 👤 Contact
 
-[LinkedIn](https://www.linkedin.com/in/your-linkedin/) • [Email](mailto:subhamsaha2511@gmail.com)
+[LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/subham-saha-277342202/)) • [Email](mailto:subhamsaha2511@gmail.com)
